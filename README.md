@@ -2,7 +2,8 @@
 
 This extension allows the open source tracking tool [ActivityWatch](http://activitywatch.net/) to keep track of the projects and coding languages you use in Visual Code.
 
-The source code is visible at https://github.com/ActivityWatch/aw-watcher-vscode
+* You can download the extension directly from the extensions marketplace in vscode.
+* The source code is visible at https://github.com/ActivityWatch/aw-watcher-vscode.
 
 ## Features
 
@@ -15,7 +16,7 @@ Currently VS Code extensions don't support getting file/project names for non-ed
 
 ## Requirements
 
-To run this extension you will need to have a running ActivityWatch Server.
+To run this extension you will need to have a running ActivityWatch Server, and make sure the extension is enabled in vscode.
 
 ## Commands
 #### Reload ActivityWatch
